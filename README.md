@@ -40,10 +40,5 @@ MERN-E-Commerce-Backend is the backend of an e-commerce web application built wi
 ![Cart](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853693/Cart_zpzmwr.png)
 ![UserProfile](https://res.cloudinary.com/dxguqzge7/image/upload/v1682853694/User_lyfday.png)
 
-## Tech Stack
 
-- ReactJS
-- MongoDB
-- NodeJS
-- ExpressJS
 
